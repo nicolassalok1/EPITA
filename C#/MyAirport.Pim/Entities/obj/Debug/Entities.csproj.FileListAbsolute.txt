@@ -1,0 +1,17 @@
+C:\Users\joube\source\repos\MyAirport.Pim\Entities\bin\Debug\Entities.dll
+C:\Users\joube\source\repos\MyAirport.Pim\Entities\bin\Debug\Entities.pdb
+C:\Users\joube\source\repos\MyAirport.Pim\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\joube\source\repos\MyAirport.Pim\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\joube\source\repos\MyAirport.Pim\Entities\obj\Debug\Entities.dll
+C:\Users\joube\source\repos\MyAirport.Pim\Entities\obj\Debug\Entities.pdb
+C:\Users\joube\Downloads\MyAirport.Pim\Entities\bin\Debug\Entities.dll
+C:\Users\joube\Downloads\MyAirport.Pim\Entities\bin\Debug\Entities.pdb
+C:\Users\joube\Downloads\MyAirport.Pim\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\joube\Downloads\MyAirport.Pim\Entities\obj\Debug\Entities.dll
+C:\Users\joube\Downloads\MyAirport.Pim\Entities\obj\Debug\Entities.pdb
+C:\Users\joube\Downloads\SOSO\MyAirport.Pim\Entities\bin\Debug\Entities.dll
+C:\Users\joube\Downloads\SOSO\MyAirport.Pim\Entities\bin\Debug\Entities.pdb
+C:\Users\joube\Downloads\SOSO\MyAirport.Pim\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\joube\Downloads\SOSO\MyAirport.Pim\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\joube\Downloads\SOSO\MyAirport.Pim\Entities\obj\Debug\Entities.dll
+C:\Users\joube\Downloads\SOSO\MyAirport.Pim\Entities\obj\Debug\Entities.pdb
